@@ -1,0 +1,1 @@
+Successfully cloned into github via SSH public key and key name is Automation-Repo.
